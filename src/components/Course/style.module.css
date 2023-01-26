@@ -1,0 +1,8 @@
+.part{
+border-radius: 5px;
+margin: 0 auto 20px;
+padding: 20px;
+background-color: rgb(197, 233, 245);
+max-width: 50%;
+font-size: 20px;
+}

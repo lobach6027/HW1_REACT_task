@@ -1,0 +1,9 @@
+.result{
+    background: rgb(175, 243, 175);
+    padding: 20px;
+    margin: 0 auto 20px;
+    font-size: 22px;
+    text-decoration: underline;
+    max-width: 50%;
+    border-radius: 5px;
+}
