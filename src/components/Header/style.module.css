@@ -1,4 +1,17 @@
-.namesCourse{
-text-align: center;
-font-size: 26px;
+.menu{
+display: flex;
+width: 60%;
+justify-content: space-between;
+margin: 0 auto;
+padding: 10px;
+font-size: 20px;
+
+}
+.link{
+text-decoration: none;
+color: rgb(133, 131, 131);
+}
+.link:hover{
+    text-decoration: none;
+   color: black ;
 }

@@ -1,9 +1,9 @@
 .result{
-    background: rgb(175, 243, 175);
+    background: rgb(181, 238, 181);
     padding: 20px;
     margin: 0 auto 20px;
     font-size: 22px;
     text-decoration: underline;
-    max-width: 50%;
+    max-width: 100%;
     border-radius: 5px;
 }

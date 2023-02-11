@@ -1,10 +1,12 @@
-import React from 'react'
-import s from './style.module.css'
-export default function Course(props) {
+import React from "react";
+import s from "./style.module.css";
+
+
+export default function Course({ part, tasks }) {
   return (
     <div className={s.part}>
-        <p>PART: {props.part}</p>
-        <p>TASKS: {props.tasks}</p>
+      <h3>{part}</h3>
+      <p>TASKS: {tasks}</p>
     </div>
-  )
+  );
 }

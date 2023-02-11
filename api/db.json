@@ -1,0 +1,13 @@
+
+ {
+    "parts":[
+            {"id": 1, "part": "Вводные занятия по React","tasks": 10 , "category":"FrontEnd"},
+            {"id": 2, "part": "Использование React хуков", "tasks": 5, "category":"FrontEnd" },
+            {"id": 3, "part": "Использование библиотеки react-router-dom", "tasks": 15 , "category":"FrontEnd"},
+            {"id": 4, "part": "Использование библиотеки react-router-dom", "tasks": 15 , "category":"FrontEnd"},
+            {"id": 5, "part": "Использование библиотеки react-router-dom", "tasks": 15 , "category":"FrontEnd"},
+            {"id": 6, "part": "Использование библиотеки react-router-dom", "tasks": 15 , "category":"FrontEnd"},
+            {"id": 7, "part": "Использование библиотеки react-router-dom", "tasks": 15 , "category":"FrontEnd"}
+          
+    ]
+ }

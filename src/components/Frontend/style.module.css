@@ -1,0 +1,16 @@
+.wrapper {
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(224, 237, 250);
+    border-radius: 10px;
+  }
+  h1 {
+    text-align: center;
+  }
+  .tasks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   align-items: center;
+  }
